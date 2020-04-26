@@ -24,3 +24,11 @@
 body{
     background-color: rgb(65, 201, 235);
 }
+@media only screen and (max-width: 500px) {
+    
+    #content button{
+        height: 50px;
+        width: 50px;
+    }
+    
+  }
